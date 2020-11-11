@@ -106,3 +106,5 @@ C:\Users\georg\source\repos\SpaceFaringProject\Space101\Space101App\Space101App\
 C:\Users\georg\source\repos\SpaceFaringProject\Space101\Space101App\Space101App\obj\Debug\Space101App.csproj.CopyComplete
 C:\Users\georg\source\repos\SpaceFaringProject\Space101\Space101App\Space101App\obj\Debug\Space101App.dll
 C:\Users\georg\source\repos\SpaceFaringProject\Space101\Space101App\Space101App\obj\Debug\Space101App.pdb
+C:\Users\georg\source\repos\SpaceFaringProject\Space101\Space101App\Space101App\obj\Debug\Space101App.Migrations.InitializeDb.resources
+C:\Users\georg\source\repos\SpaceFaringProject\Space101\Space101App\Space101App\obj\Debug\Space101App.csproj.GenerateResource.cache
