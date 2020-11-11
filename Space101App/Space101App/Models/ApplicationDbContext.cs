@@ -9,7 +9,7 @@ namespace Space101App.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("Space101AppContext", throwIfV1Schema: false)
         {
         }
 
